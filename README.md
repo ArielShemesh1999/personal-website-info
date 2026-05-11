@@ -1,12 +1,13 @@
 # Personal Portfolio
 
-> Personal portfolio site for Ariel Shemesh — Data, Web and AI Developer.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🌐 Live Site
 
 ### → [**arielshemeshweb.vercel.app**](https://arielshemeshweb.vercel.app/)
-
-[![Live on Vercel](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel&logoColor=white)](https://arielshemeshweb.vercel.app/)
 
 ---
 
